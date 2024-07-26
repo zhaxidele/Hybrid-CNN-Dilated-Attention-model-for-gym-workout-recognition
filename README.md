@@ -19,8 +19,8 @@ The schematic and geber files can be found in the Hardware directory. PCB/Protot
 
 
 ## Model Architecture
+![Network](https://github.com/user-attachments/assets/7d37e09b-b876-4ef4-938e-711b0b34dc64)
 
-[Figure_8.pdf](https://github.com/user-attachments/files/16395729/Figure_8.pdf)
 
 
 ## Classifcation Result Example
