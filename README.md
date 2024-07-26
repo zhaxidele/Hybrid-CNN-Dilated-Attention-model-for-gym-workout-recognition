@@ -18,6 +18,10 @@ The schematic and geber files can be found in the Hardware directory. PCB/Protot
 11 gym exercises: Adductor, Armcurl, Benchpress, Legcurl, Legpress, Riding, Ropeskipping, Running, Squat, Stairsclimber and Walking
 
 
+## Model Architecture
+
+[Figure_8.pdf](https://github.com/user-attachments/files/16395729/Figure_8.pdf)
+
 
 ## Classifcation Result Example
 
